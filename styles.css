@@ -1,5 +1,6 @@
 *{
     font-size: large;
+    font-family: sans-serif;
 }
 
 body{
@@ -34,10 +35,13 @@ article{
 
 h1{
  font-size: larger;
+ font-weight: bolder;
+ color: white;
+ ;
  border: 3px solid black;
  padding-top: 2%;
  padding-bottom: 2%;
- background-color: tomato;
+ background-color: #45382e;
  display: block;
  margin-left: auto;
  margin-right: auto;
@@ -48,7 +52,7 @@ h1{
 
 .instBlock{
  border: 3px solid black;
- background-color: #967e63;
+ background-image: url("https://cdn1.vectorstock.com/i/1000x1000/95/10/wooden-pattern-background-vector-1259510.jpg");
  display: block;
  margin-left: auto;
  margin-right: auto;
