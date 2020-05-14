@@ -43,6 +43,7 @@ h1{
  margin-right: auto;
  width: 50%;
  text-align: center;
+ box-shadow: 5px 7px black;
 }
 
 .instBlock{
