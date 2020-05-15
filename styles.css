@@ -3,6 +3,21 @@
     font-family: sans-serif;
 }
 
+#table{
+    border: 6px solid black;
+    background-image: url("https://photos8.org/wp-content/uploads/2019/01/Wood-Planks-Texture-and-Background-by-Sam-Mugraby.jpg");
+    background-size: 20% ;
+    margin: auto;
+    margin-bottom: 10%;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+
+#toc{
+    padding-left: 3em;
+}
+
 body{
     background-image: url("imgs/background.png");
     background-size: 200px;
@@ -59,4 +74,18 @@ h1{
  margin-bottom: 7%;
  width: 70%;
  text-align: center;
+}
+
+#plate{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+#logo{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 65%;
 }
